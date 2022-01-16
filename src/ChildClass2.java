@@ -14,4 +14,9 @@ public class ChildClass2 extends ParentClass {
 	{
 		System.out.println("In mult");
 	}
+	
+	public void Mult2()
+	{
+		System.out.println("In mult");
+	}
 }
