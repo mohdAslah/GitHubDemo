@@ -14,7 +14,6 @@ public class ChildClass2 extends ParentClass {
 	{
 		System.out.println("In mult");
 	}
-<<<<<<< HEAD
 	public void white()
 	{
 		System.out.println("In mult");
@@ -23,6 +22,8 @@ public class ChildClass2 extends ParentClass {
 	public void green()
 	{
 		System.out.println("In mult");
+		System.out.println("In green");
+
 	}
 	
 	public void blue()
@@ -31,11 +32,14 @@ public class ChildClass2 extends ParentClass {
 	}
 	
 	
-=======
+
 	
 	public void Mult2()
 	{
-		System.out.println("In mult");
+		System.out.println("In yellow");
+		System.out.println("In blue");
+		System.out.println("In green");
+
+
 	}
->>>>>>> 3d5caf2746ec8dc5bdffa0064cf8c2aa4b6a9c0f
 }
